@@ -57,5 +57,6 @@
 
 ## Dashboard
      Developed an interactive Power BI dashboard to visualize churn trends, key drivers, and high-risk customer segments.
+     ![Telco_customer_churn_dashboard_SS](Telco_customer_churn_dashboard_SS.png)
      
 
