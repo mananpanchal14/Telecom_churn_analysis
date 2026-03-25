@@ -39,10 +39,9 @@
       (4)Online Backup
 
 ## Key Insights:
-      Customers on month-to-month contracts show significantly higher churn (~43%) compared to long-term contracts.
+      Customers on month-to-month contracts show significantly higher churn (~43%) compared to long-term contracts. Hence, Month-to-month customers are the most at risk, and this risk significantly increases when combined with high-cost services, lack of support, or less stable payment methods.
       Fiber optic users exhibit higher churn rates, especially when combined with flexible contracts.
-      Lack of Tech Support and Online Backup is associated with increased churn (~40%+).
-      Electronic check users show the highest churn among payment methods (~45%+).
+      Electronic check users show the highest churn among payment methods (~45%+). 
 
 ## High-Risk Customer Segment:
       Customers on month-to-month contracts using fiber optic services show the highest churn (~54%), indicating a critical segment for retention efforts.
@@ -54,4 +53,4 @@
       Promote auto-payment methods to improve customer stability.
 
 ## Dashboard
-      Developed an interactive Power BI dashboard to 
+     Developed an interactive Power BI dashboard to visualize churn trends, key drivers, and high-risk customer segments.
