@@ -1,6 +1,7 @@
 CREATE DATABASE churn_db;
 USE churn_db;
 
+#Used Table Data import hazard to upload the csv file into MySQL
 SELECT * FROM telco;
 SELECT MIN(tenure), MAX(tenure) 
 FROM telco;
